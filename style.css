@@ -1,0 +1,6 @@
+.center{
+    align-items: center !important;
+    text-align: center !important;
+    align-content: center !important;
+    gap: 2px;
+}
